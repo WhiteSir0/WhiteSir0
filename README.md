@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요. 경기게임마이스터고 7기생 송시우입니다. 👋
 
 <!--
 **WhiteSir0/WhiteSir0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
