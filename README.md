@@ -1,6 +1,7 @@
 ## 안녕하세요. 경기게임마이스터고 7기생 송시우입니다. 👋
 
 🔥
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhiteSir0)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **WhiteSir0/WhiteSir0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
