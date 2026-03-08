@@ -1,14 +1,11 @@
 ## 안녕하세요. 경기게임마이스터고 7기생 송시우입니다. 👋
 
+Skill
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+
 🔥
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-whitesir04241-3rdwut3b.leapcell.dev/api?username=WhiteSir0&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats-whitesir04241-3rdwut3b.leapcell.dev/api?username=WhiteSir0&repo=WhiteSir0.github.io&theme=buefy" />
-</a>
-
+![WhiteSir0's GitHub stats](https://github-readme-stats-whitesir04241-3rdwut3b.leapcell.dev/api?username=WhiteSir0)
 
 <a href="https://www.roblox.com/ko/users/553011630/profile"><img src="https://img.shields.io/badge/000000?style=flat-square&logo=roblox&logoColor=white"/></a>
 
