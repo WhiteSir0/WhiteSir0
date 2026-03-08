@@ -6,7 +6,8 @@ Skill
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
 🔥
-![WhiteSir0's GitHub stats](https://github-readme-stats-whitesir04241-3rdwut3b.leapcell.dev/api?username=WhiteSir0)
+
+![WhiteSir0's GitHub stats](https://github-readme-stats-whitesir04241-3rdwut3b.leapcell.dev/api?username=WhiteSir0&theme=dark)
 
 <a href="https://www.roblox.com/ko/users/553011630/profile"><img src="https://img.shields.io/badge/000000?style=flat-square&logo=roblox&logoColor=white"/></a>
 
