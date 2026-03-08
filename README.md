@@ -2,7 +2,7 @@
 
 🔥
 
-[![Anurag's GitHub stats](https://github-readme-stats-whitesir04241-3rdwut3b.leapcell.dev/?username=WhiteSir0)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-whitesir04241-3rdwut3b.leapcell.dev/api?username=WhiteSir0)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://www.roblox.com/ko/users/553011630/profile"><img src="https://img.shields.io/badge/000000?style=flat-square&logo=roblox&logoColor=white"/></a>
